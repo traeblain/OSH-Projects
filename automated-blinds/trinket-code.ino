@@ -1,3 +1,14 @@
+/*===================================================================
+ * Automated Blinds for Trinket Pro 5V
+ *===================================================================
+ * 
+ * Created 2016-12-16 by Trae Blain
+ * Licensed under CC-BY-4.0 (See LICENSE file)
+ * http://traeblain.com/
+ *
+ * Build details found: https://traeblain.com/blog/automated-blinds/
+ *
+ */
 #include <Servo.h>  //Need the Servo module
 
 Servo servo_obj; //Define the Servo Object
